@@ -11,8 +11,4 @@
 		<type>elgg_release</type>
 		<version>1.8</version>
 	</requires>
-	<requires>
-		<type>plugin</type>
-		<name>evan</name>
-	</requires>
 </plugin_manifest>
